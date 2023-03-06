@@ -3,7 +3,7 @@
 <img src="3.png">
 
 # Projects
-## 📒 [Recommendation system for a health insurance company]()
+## 📒 [Ranking clients in a health insurance company]()
 
 Create list of clients more likely to buy a second product based in their caracteristics. It was use a logistic regression algotithm for clients classification based in its propability to buy. The project will help to reduce costs in commercial area due to reduced number of phone calls.
 
