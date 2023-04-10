@@ -5,7 +5,7 @@
 # Projects
 ## 📒 [Ranking clients in a health insurance company](https://github.com/anaraquelou/health-insurance-project)
 
-Create list of clients more likely to buy a second product based in their caracteristics. It was use a logistic regression algotithm for clients classification based in its propability to buy. The project will help to reduce costs in commercial area due to reduced number of phone calls.
+A classification model was used to create a list of clients more likely to buy a second insurance. The best k number of clients was calculated to reach maximum profit. The final model presented 91.62% recall at k equal to 40,254 bringing a total profit of U$ 4.24 million.
 
 ## 📈  [Sales prediction for Rossmann using Regression](https://github.com/anaraquelou/ds-em-producao)
 
